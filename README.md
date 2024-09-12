@@ -33,3 +33,8 @@ View the projects live at: [GitHub Repository](https://github.com/ankit-asze/roa
 1. Clone the repository:
    ```bash
    git clone https://github.com/ankit-asze/roadmap.sh-projects.git
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
