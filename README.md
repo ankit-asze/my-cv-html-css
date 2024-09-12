@@ -1,21 +1,27 @@
-# My CV HTML/CSS
+# Projects Overview
 
-This is a simple personal CV webpage for **Ankit Chaudhary Tharu**, a Junior Frontend Developer with skills in HTML, CSS, JavaScript, and more.
+This repository contains two web projects:
 
-## Project URL
-Single-Page CV
-https://roadmap.sh/projects/single-page-cv
+## 1. Single-Page CV
 
-Basic HTML Website
-https://roadmap.sh/projects/basic-html-website
+A responsive single-page CV for showcasing a personal resume.
 
-You can view the project live at: [https://github.com/ankit-asze/my-cv-html-css](https://github.com/ankit-asze/my-cv-html-css)
+- **Project URL:** [Single-Page CV](https://roadmap.sh/projects/single-page-cv)
+
+## 2. Basic HTML Website
+
+A basic HTML website project demonstrating fundamental web design principles.
+
+- **Project URL:** [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
+
+## Live Demo
+
+View the projects live at: [GitHub Repository](https://github.com/ankit-asze/roadmap.sh-projects)
 
 ## Features
 
-- Personal CV webpage
 - Responsive design
-- Clear and concise layout
+- Clean layout
 
 ## Technologies Used
 
